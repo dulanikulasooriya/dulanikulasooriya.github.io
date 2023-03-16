@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d3644c0.css",
+    "main.js": "/static/js/main.c401f2d1.js",
+    "static/media/resume.pdf": "/static/media/resume.87842502811cf6b95343.pdf",
+    "static/media/ecommerce.PNG": "/static/media/ecommerce.2f292c7a02707f2751e6.PNG",
+    "static/media/hoc.PNG": "/static/media/hoc.54dd7d1264d2436d2537.PNG",
+    "static/media/telegram.png": "/static/media/telegram.fa11c31d42da09851dd8.png",
+    "static/media/sidebar.PNG": "/static/media/sidebar.c7cb9184c46b90f756b6.PNG",
+    "static/media/glassesimoji.PNG": "/static/media/glassesimoji.e7783bad546b81f70f6b.PNG",
+    "static/media/musicapp.jpg": "/static/media/musicapp.bf68cfae39e1d27350ed.jpg",
+    "static/media/Insta.png": "/static/media/Insta.e2783545d30f9775b292.png",
+    "static/media/girl.png": "/static/media/girl.9e5945a56910f9a477d4.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.62607714069146c21a2c.webp",
+    "index.html": "/index.html",
+    "main.5d3644c0.css.map": "/static/css/main.5d3644c0.css.map",
+    "main.c401f2d1.js.map": "/static/js/main.c401f2d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3644c0.css",
+    "static/js/main.c401f2d1.js"
+  ]
+}
